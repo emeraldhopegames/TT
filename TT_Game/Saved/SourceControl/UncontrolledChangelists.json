@@ -14,8 +14,6 @@
 				"E:/TT/TT_Game/Content/Blueprints/Character/SandboxCharacter_Mover.uasset",
 				"E:/TT/TT_Game/Content/Blueprints/SandboxCharacter_Mover.uasset",
 				"E:/TT/TT_Game/Content/Blueprints/Character/SandboxCharacter_Mover_ABP.uasset",
-				"E:/TT/TT_Game/Content/Blueprints/SandboxCharacter_Mover_ABP.uasset",
-				"E:/TT/TT_Game/Content/Blueprints/PC_Sandbox.uasset",
 				"E:/TT/TT_Game/Content/Blueprints/AC_VisualOverrideManager.uasset",
 				"E:/TT/TT_Game/Content/Blueprints/Character/BP_BeastBoy.uasset",
 				"E:/TT/TT_Game/Content/Blueprints/Character/BP_MainChar.uasset",
@@ -23,7 +21,11 @@
 				"E:/TT/TT_Game/Content/Widgets/GameAnimationWidget.uasset",
 				"E:/TT/TT_Game/Content/Levels/LevelPrototyping/TargetDummy.uasset",
 				"E:/TT/TT_Game/Content/Characters/UEFN_Mannequin/Materials/MI_UEFN_Mannequin_Mover1.uasset",
-				"E:/TT/TT_Game/Content/Characters/UEFN_Mannequin/Materials/MI_UEFN_Mannequin_Mover2.uasset"
+				"E:/TT/TT_Game/Content/Characters/UEFN_Mannequin/Materials/MI_UEFN_Mannequin_Mover2.uasset",
+				"E:/TT/TT_Game/Content/Blueprints/My_Blueprints/BP_Ice.uasset",
+				"E:/TT/TT_Game/Content/Characters/UEFN_Mannequin/Materials/M_UEFN_Mannequin_Masked_Bicolor.uasset",
+				"E:/TT/TT_Game/Content/Blueprints/SandboxCharacter_Mover_ABP.uasset",
+				"E:/TT/TT_Game/Content/Blueprints/PC_Sandbox.uasset"
 			]
 		}
 	]
