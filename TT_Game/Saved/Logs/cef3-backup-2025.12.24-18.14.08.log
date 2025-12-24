@@ -1,0 +1,4 @@
+[28004:14216:1224/191117.972:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28004:14216:1224/191118.094:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28004:1896:1224/191133.032:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[28004:14216:1224/191408.624:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
