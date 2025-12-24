@@ -1,6 +1,0 @@
-[18760:13500:1221/223454.504:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[18760:13500:1221/223454.569:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[18760:13500:1221/223528.058:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
-[12540:14856:1221/223528.064:ERROR:frame_impl.cc(537)] frame 5-04BC24BA5560360858A68BC6F81ADF5D connection timeout
-[18760:22320:1221/223530.428:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[18760:13500:1222/001745.312:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
